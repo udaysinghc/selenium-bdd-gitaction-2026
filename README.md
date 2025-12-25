@@ -175,7 +175,7 @@ allure open target/allure-reports
 
 - Tests run automatically on push and pull request
 
-- Uses Ubuntu runner with JDK 11
+- Uses Ubuntu runner with JDK 17
 
 - Executes Maven test suite
 
